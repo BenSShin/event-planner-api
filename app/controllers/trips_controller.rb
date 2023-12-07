@@ -19,4 +19,7 @@ class TripsController < ApplicationController
     )
     render :show
   end
+
+  def destroy
+  end
 end
